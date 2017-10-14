@@ -1,0 +1,7 @@
+{
+    "serverId": "my-company-server",
+    "projectKey": "my-project",
+    "rules":{
+        "no-console" : 1
+    }
+}
